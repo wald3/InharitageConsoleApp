@@ -6,7 +6,10 @@ namespace InheritageApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DerivateClass dC = new DerivateClass(25, "ExampleName");      
+            dC.ViewMethod();
+
+            Console.ReadKey();
         }
     }
 }

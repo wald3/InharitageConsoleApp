@@ -1,0 +1,11 @@
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\bin\Debug\netcoreapp2.0\InheritageApp.deps.json
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\bin\Debug\netcoreapp2.0\InheritageApp.runtimeconfig.json
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\bin\Debug\netcoreapp2.0\InheritageApp.runtimeconfig.dev.json
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\bin\Debug\netcoreapp2.0\InheritageApp.dll
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\bin\Debug\netcoreapp2.0\InheritageApp.pdb
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\obj\Debug\netcoreapp2.0\InheritageApp.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\obj\Debug\netcoreapp2.0\InheritageApp.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\obj\Debug\netcoreapp2.0\InheritageApp.AssemblyInfoInputs.cache
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\obj\Debug\netcoreapp2.0\InheritageApp.AssemblyInfo.cs
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\obj\Debug\netcoreapp2.0\InheritageApp.dll
+C:\Users\Vladislav\source\repos\InheritageApp\InheritageApp\obj\Debug\netcoreapp2.0\InheritageApp.pdb
