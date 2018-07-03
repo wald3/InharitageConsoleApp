@@ -6,12 +6,12 @@ namespace InheritageApp
     {
         static void Main(string[] args)
         {
-            //obj of DerivatedClass1, that HAS overridden ViewMethod
+            // Obj of DerivatedClass1, that HAS overridden ViewMethod
             DerivedClass1 dC1 = new DerivedClass1 (25, "ExampleName");
-            //obj of DerivatedClass2, that DIDN'T HAS overridden ViewMethod
+            // Obj of DerivatedClass2, that DIDN'T HAS overridden ViewMethod
             DerivedClass2 dC2 = new DerivedClass2 (50, "ExampleName");
 
-            //link to the base class
+            // Link to the base class
             BaseClass bCRef;
 
             bCRef = dC1;
