@@ -15,7 +15,7 @@ namespace InheritageApp
             _age = age;
         }
 
-        //
+        //virtual method that can be overridden in derivated classes
         public virtual void ViewMethod()
         {
             Console.WriteLine("Age: {0}.", _age);

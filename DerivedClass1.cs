@@ -4,16 +4,19 @@ using System.Text;
 
 namespace InheritageApp
 {
-    class DerivatedClass2 : BaseClass
+    //inherit the BaseClass
+    class DerivedClass1 : BaseClass
     {
         string _name { get; }
 
-        public DerivatedClass2(int age, string name) : base(age)
+        //sending the "age" param to the BaseClass ctor
+        public DerivedClass1(int age, string name) : base(age)
         {
             _name = name;
         }
 
-        public new void ViewMethod()
+        //overridden ViewMethod
+        public override void ViewMethod()
         {
             Console.WriteLine("Name: {0}, Age: {1}.", _name, _age);
         }
